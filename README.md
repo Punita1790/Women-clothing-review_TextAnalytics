@@ -17,4 +17,4 @@ clothing site.
 
 Target variable: Recommended IND (0: Not recommended , 1: Recommended)
 
-Review: Sentiment Analysis- Positive, Negative , Neutral
+Sentiment Analysis: Reviews- Positive, Negative , Neutral
