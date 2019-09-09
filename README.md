@@ -7,6 +7,7 @@ with “retailer”. In this project, I would like to classify each review wheth
 reviewed product or not, so the Recommended IND field will be the outcome. The other
 supportive features offer a great environment to parse out the text through its multiple
 dimensions.
+
 This dataset includes 23486 rows and 10 feature variables
 
 The data analyst team at an e-commerce company selling women clothing wants to know what
@@ -15,4 +16,5 @@ would like to recommend based on the analyzing the customer reviews on an e-comm
 clothing site.
 
 Target variable: Recommended IND (0: Not recommended , 1: Recommended)
+
 Review: Sentiment Analysis- Positive, Negative , Neutral
